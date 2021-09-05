@@ -1,0 +1,236 @@
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\DemoProjet.dll.config
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\DemoProjet.dll
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\DemoProjet.pdb
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\csc.exe
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\csc.exe.config
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\csc.rsp
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\csi.exe
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\csi.exe.config
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\csi.rsp
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\System.AppContext.dll
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\System.Console.dll
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\System.IO.Compression.dll
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\System.Net.Http.dll
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\System.ValueTuple.dll
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\vbc.exe
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\vbc.exe.config
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\vbc.rsp
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\obj\Debug\DemoProjet.csprojAssemblyReference.cache
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\obj\Debug\DemoProjet.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\obj\Debug\DemoProjet.csproj.CopyComplete
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\obj\Debug\DemoProjet.dll
+C:\Users\Pc\Documents\S3\ASP\TP\DemoProjet\DemoProjet\obj\Debug\DemoProjet.pdb
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\DemoProjet.dll.config
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\DemoProjet.dll
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\DemoProjet.pdb
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\csc.exe
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\csc.exe.config
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\csc.rsp
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\csi.exe
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\csi.exe.config
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\csi.rsp
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\System.AppContext.dll
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\System.Console.dll
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\System.IO.Compression.dll
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\System.Net.Http.dll
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\System.Net.Sockets.dll
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\System.ValueTuple.dll
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\System.Xml.XPath.dll
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\vbc.exe
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\vbc.exe.config
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\vbc.rsp
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\VBCSCompiler.exe
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\espoir\source\DemoProjet\DemoProjet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\espoir\source\DemoProjet\DemoProjet\obj\Debug\DemoProjet.csprojAssemblyReference.cache
+C:\Users\espoir\source\DemoProjet\DemoProjet\obj\Debug\DemoProjet.csproj.CoreCompileInputs.cache
+C:\Users\espoir\source\DemoProjet\DemoProjet\obj\Debug\DemoProjet.csproj.CopyComplete
+C:\Users\espoir\source\DemoProjet\DemoProjet\obj\Debug\DemoProjet.dll
+C:\Users\espoir\source\DemoProjet\DemoProjet\obj\Debug\DemoProjet.pdb
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\DemoProjet.dll.config
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\DemoProjet.dll
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\DemoProjet.pdb
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\csc.exe
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\csc.exe.config
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\csc.rsp
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\csi.exe
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\csi.exe.config
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\csi.rsp
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\System.AppContext.dll
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\System.Console.dll
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\System.IO.Compression.dll
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\System.Net.Http.dll
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\System.Net.Sockets.dll
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\System.ValueTuple.dll
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\System.Xml.XPath.dll
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\vbc.exe
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\vbc.exe.config
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\vbc.rsp
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\VBCSCompiler.exe
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\obj\Debug\DemoProjet.csprojAssemblyReference.cache
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\obj\Debug\DemoProjet.csproj.CoreCompileInputs.cache
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\obj\Debug\DemoProjet.csproj.CopyComplete
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\obj\Debug\DemoProjet.dll
+C:\Users\espoir\source\repos\DemoProjet\DemoProjet\obj\Debug\DemoProjet.pdb
+E:\projet Asp\DemoProjet\DemoProjet\bin\DemoProjet.dll.config
+E:\projet Asp\DemoProjet\DemoProjet\bin\DemoProjet.dll
+E:\projet Asp\DemoProjet\DemoProjet\bin\DemoProjet.pdb
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\csc.exe
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\csc.exe.config
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\csc.rsp
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\csi.exe
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\csi.exe.config
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\csi.rsp
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\Microsoft.Managed.Core.targets
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\System.AppContext.dll
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\System.Collections.Immutable.dll
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\System.Console.dll
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\System.Globalization.Calendars.dll
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\System.IO.Compression.dll
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\System.IO.FileSystem.dll
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\System.Net.Http.dll
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\System.Net.Sockets.dll
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\System.Reflection.Metadata.dll
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\System.ValueTuple.dll
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\System.Xml.XmlDocument.dll
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\System.Xml.XPath.dll
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\vbc.exe
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\vbc.exe.config
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\vbc.rsp
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\VBCSCompiler.exe
+E:\projet Asp\DemoProjet\DemoProjet\bin\roslyn\VBCSCompiler.exe.config
+E:\projet Asp\DemoProjet\DemoProjet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\projet Asp\DemoProjet\DemoProjet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\projet Asp\DemoProjet\DemoProjet\obj\Debug\DemoProjet.csprojAssemblyReference.cache
+E:\projet Asp\DemoProjet\DemoProjet\obj\Debug\DemoProjet.csproj.CoreCompileInputs.cache
+E:\projet Asp\DemoProjet\DemoProjet\obj\Debug\DemoProjet.csproj.CopyComplete
+E:\projet Asp\DemoProjet\DemoProjet\obj\Debug\DemoProjet.dll
+E:\projet Asp\DemoProjet\DemoProjet\obj\Debug\DemoProjet.pdb

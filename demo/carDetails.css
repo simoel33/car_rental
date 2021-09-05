@@ -1,0 +1,28 @@
+﻿
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+.card {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    position: relative;
+    border-radius: 20px;
+}
+
+
+
+.car_img {
+    height: 80%;
+    display: flex;
+    align-items: center;
+}
+
+
+
+
